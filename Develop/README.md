@@ -1,11 +1,11 @@
 
-# a
+# readme generator
 
 [![Licnese](https://img.shields.io/badge/Licnese-Apache%202.0-red)](https://opensource.org/licenses/Apache-2.0)
 
 ## Discription
 
-a
+this is a readme file generator
 
 ## Table of Contents
 
@@ -19,25 +19,25 @@ a
 ## Installation
 
 ```
-a
+npm install inquirer
 ```
 
 ## Usage
 
 ```
-a
+node index.js
 ```
 
 ## Contribution
 
-a
+hello I don't know
 
 ## Tests
 
-a
+haven't there yet
 
 ## Contact
 
-[GitHub Page](https://github.com/a) 
+[GitHub Page](https://github.com/siyuanhuo) 
 
-Please send me [Email](mailto:a?subject=[GitHub]%20Source%20Han%20Sans) if you have any questions.
+Please send me [Email](mailto:siyuan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) if you have any questions.
