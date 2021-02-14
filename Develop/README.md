@@ -5,7 +5,7 @@
 
 ## Discription
 
-this is a readme file generator
+this is awsome
 
 ## Table of Contents
 
@@ -30,11 +30,11 @@ node index.js
 
 ## Contribution
 
-hello I don't know
+what is this?
 
 ## Tests
 
-haven't there yet
+you tell me
 
 ## Contact
 

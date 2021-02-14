@@ -47,7 +47,6 @@ ${data.discription}
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Test](#test)
-* [License](#license)
 * [Contact](#contact)
 
 ## Installation
@@ -66,7 +65,7 @@ ${data.usage}
 
 ${data.contribution}
 
-## Tests
+## Test
 
 ${data.test}
 
