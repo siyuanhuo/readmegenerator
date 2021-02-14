@@ -13,7 +13,6 @@ this is awsome
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Test](#test)
-* [License](#license)
 * [Contact](#contact)
 
 ## Installation
@@ -30,9 +29,9 @@ node index.js
 
 ## Contribution
 
-what is this?
+what is this
 
-## Tests
+## Test
 
 you tell me
 
@@ -40,4 +39,4 @@ you tell me
 
 [GitHub Page](https://github.com/siyuanhuo) 
 
-Please send me [Email](mailto:siyuan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) if you have any questions.
+Please send me [Email](mailto:siyuan@gmial.com?subject=[GitHub]%20Source%20Han%20Sans) if you have any questions.
